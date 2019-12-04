@@ -5,8 +5,8 @@ File and folder description:
 2) The 'data' folder includes the training set in the sub-folder 'training' (both the original and ground-truth images), the test set in the sub-folder 'test_org' (the orginial images) and folder 'test_gt' (the ground-truth images).
 3) Please manually consruct an empty folder named 'trained model' to store all generated model files and segmentation results. Please put demo_MDvsFA_release_v1.py, folder 'trained model' and folder 'data' in the same directory.
 
-Should you have any questions on the tensorflow version, please contact Huan Wang (wanghuanphd@njust.edu.cn) and Lei Wang(leiw@uow.edu.au).
+Should you have any questions on the tensorflow version, please contact Huan Wang (wanghuanphd@njust.edu.cn) and Lei Wang (leiw@uow.edu.au).
 
 We sincerely acknowledge Ziyu Li and Wankou Yang from the Southeast University, People Republic of China to kindly provide the pytorch implementation of the MDvsFA_cGAN model. 
 
-Should you have any questions on the pytorch version, please contact Ziyu Li(liziyu@seu.edu.cn).
+Should you have any questions on the pytorch version, please contact Ziyu Li (liziyu@seu.edu.cn) and Wankou Yang (wkyang@seu.edu.cn).
