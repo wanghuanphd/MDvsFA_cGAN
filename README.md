@@ -7,6 +7,6 @@ File and folder description:
 
 Should you have any questions on the tensorflow version, please contact Huan Wang (wanghuanphd@njust.edu.cn) and Lei Wang (leiw@uow.edu.au).
 
-We sincerely acknowledge Ziyu Li and Wankou Yang from the Southeast University, People Republic of China to kindly provide the pytorch implementation of the MDvsFA_cGAN model. 
+Also, we sincerely acknowledge Ziyu Li and Wankou Yang from the Southeast University, People Republic of China to kindly provide the pytorch implementation of the MDvsFA_cGAN model. 
 
 Should you have any questions on the pytorch version, please contact Ziyu Li (liziyu@seu.edu.cn) and Wankou Yang (wkyang@seu.edu.cn).
